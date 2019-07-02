@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name
+comment2.target=int\ getSuperTrump(java.lang.String)
+comment3.params=num
+comment3.target=void\ getCards(int)
+comment4.params=cards
+comment4.target=void\ displayCards(java.util.ArrayList)
+comment5.params=c\ playerno\ totalp\ round
+comment5.target=int\ SettingRound(java.util.ArrayList,\ int,\ int,\ int)
+comment6.params=
+comment6.target=int\ getcategory()
+comment7.params=index\ play\ cardno\ playerno\ value1
+comment7.target=java.lang.String\ getCleavage(int,\ java.util.ArrayList,\ int,\ int,\ java.lang.String)
+comment8.params=value\ indexCategory\ player\ no\ playerno
+comment8.target=double\ getHigherValue(double,\ int,\ java.util.ArrayList,\ int,\ int)
+comment9.params=playerno
+comment9.target=void\ setpass(int)
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\ this\ class\ is\ used\ to\ take\ the\ input\ of\ number\ of\ players\ \n
+comment1.params=
+comment1.target=int\ getPlayers()
+comment2.params=num
+comment2.target=void\ checkPlayers(int)
+numComments=3
